@@ -14,5 +14,6 @@ public class dataDrivernJunitAssertPom extends BaseClassPOM {
 	public void currentUrl() {
 		// TODO Auto-generated method stub
 		super.currentUrl();
+		.baseclass..
 	}
 }
